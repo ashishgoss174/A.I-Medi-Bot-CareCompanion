@@ -1,0 +1,11 @@
+#python>=3.12
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+huggingface_hub
+pydantic
+faiss-cpu
+PyMuPDF
